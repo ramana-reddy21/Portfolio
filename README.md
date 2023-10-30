@@ -1,4 +1,2 @@
  <h1>VENKATARAMANA REDDY BILLA 
       PORTFOLIO <h1/>
-      
-      
